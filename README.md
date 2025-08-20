@@ -1,8 +1,8 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=glopapa&label=Profile%20views&color=0e75b6&style=flat" alt="glopapa" />
+  <img src="https://komarev.com/ghpvc/?username=luke-bill&label=Profile%20views&color=0e75b6&style=flat" alt="luke-bill" />
 </p>
 
-<h1 align="center">Hi 👋, I'm glopapa</h1>
+<h1 align="center">Hi 👋, I'm luke bill</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="center">
@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glopapa&show_icons=true&theme=radical" alt="glopapa's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=glopapa&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luke-bill&show_icons=true&theme=radical" alt="luke-bill's GitHub stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=luke-bill&theme=radical&hide_border=true" width="400"/>
 </p>
 
 ---
@@ -46,10 +46,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glopapa&repo=DevBoard&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luke-bill&repo=DevBoard&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glopapa&repo=DevQuotes&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luke-bill&repo=DevQuotes&theme=buefy" />
 </a>
 
 ---
@@ -57,7 +57,7 @@
 ### ☕ Let's Connect
 
 <p align="left">
-  <a href="https://github.com/glopapa" target="_blank">
+  <a href="https://github.com/luke-bill" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
